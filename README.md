@@ -1,5 +1,5 @@
 # Blue Checker: Spotify
-‘Blue Checker: Spotify’ es una herramienta sencilla diseñado en ‘Python 3’ el cual tiene la función de verificar las cuentas presentes en un archivo de texto para su uso en la plataforma de Spotify.
+‘Blue Checker: Spotify’ es una herramienta sencilla diseñada en ‘Python 3’ el cual tiene la función de verificar las cuentas presentes en un archivo de texto para su uso en la plataforma de Spotify.
 
 ## Instalación
 **Descargue la última versión**
