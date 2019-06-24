@@ -10,6 +10,14 @@ git clone https://github.com/lSources/Blue-Checker-Spotify.git
 ```
 cd Blue-Checker-Spotify 
 ```
+**Instale la librería necesaria**
+```
+pip install request
+
+[-] O si usted tiene instalada más de una versión de Python...
+
+pip3 install request
+```
 **Inicie ‘Blue Checker: Spotify’**
 ```
 python BlueCheckerSpotify.py
