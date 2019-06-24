@@ -12,11 +12,11 @@ cd Blue-Checker-Spotify
 ```
 **Instale la librería necesaria**
 ```
-pip install request
+pip install requests
 
 [-] O si usted tiene instalada más de una versión de Python...
 
-pip3 install request
+pip3 install requests
 ```
 **Inicie ‘Blue Checker: Spotify’**
 ```
