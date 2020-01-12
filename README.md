@@ -1,6 +1,7 @@
 # Blue Checker: Spotify
 ‘Blue Checker: Spotify’ es una herramienta sencilla diseñada en ‘Python 3’ el cual tiene la función de verificar las cuentas presentes en un archivo de texto para su uso en la plataforma de Spotify.
-
+https://aminoapps.com/c/Cyber-Hacking/home/
+https://aminoapps.com/c/Blue_Hacking/home/
 ## Instalación
 **Descargue la última versión**
 ```
